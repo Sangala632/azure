@@ -282,7 +282,7 @@ Before executing any Terraform commands, ensure the following items are complete
 
 ```bash
 # Step 1: Navigate to the project directory
-cd azure-dfi
+cd azure
 
 # Step 2: Initialise Terraform (downloads provider plugins)
 terraform init

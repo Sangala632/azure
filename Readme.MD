@@ -575,4 +575,3 @@ terraform {
 
 ---
 
-*This document is maintained by the DevOps team at Venturesoft.ai. For queries or change requests, raise a JIRA ticket under the DFI project.*
